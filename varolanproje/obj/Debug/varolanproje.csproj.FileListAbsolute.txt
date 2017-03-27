@@ -1,1 +1,2 @@
 C:\Users\mgulmez\Source\Repos\pazartesi\varolanproje\varolanproje\bin\Debug\varolanproje.exe.config
+C:\Users\mgulmez\Source\Repos\varolan\varolanproje\bin\Debug\varolanproje.exe.config
